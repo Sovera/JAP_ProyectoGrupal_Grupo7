@@ -3,9 +3,6 @@ function mostrar(){
     alert ("este es el superlistado");
 }
 
-<<<<<<< HEAD
 function eliminar(){
-    delete Employee.firstname;
+    delete arhivoJSON.ElementoAEliminar;
 }
-=======
->>>>>>> 5edd93e1c7181393300494200dce9c81eeddc441
